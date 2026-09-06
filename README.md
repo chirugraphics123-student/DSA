@@ -48,7 +48,7 @@ DSA/
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/DSA.git
+git clone https://github.com/chirugraphics123-student/DSA.git
 cd DSA
 
 ```
